@@ -11,7 +11,7 @@ const Chatbot = (props) => {
     window.fbAsyncInit = function () {
       window.FB.init({
         xfbml: true,
-        version: "v15.0",
+        version: "v18.0",
       });
     };
 
